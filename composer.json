@@ -1,11 +1,21 @@
 {
   "name": "lifeofspring/test",
+  "type": "test",
   "description": "The test of lifeofspring.",
   "keywords": [
     "lifeofspring",
     "php"
   ],
-  "homepage": "http://xx.xx.xx",
+  "homepage": "https://github.com/lifeofspring/test",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "",
+      "email": "",
+      "homepage": "http://xx.xx.xx",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": ">=7.0"
   },
